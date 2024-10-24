@@ -10,9 +10,9 @@ This simple **Text to Speech Converter** application allows users to convert wri
 
 ## Requirements
 
-- Python 3.x
+- Python 3.9.2
 - `pyttsx3` library
-- `tkinter` library (included with most Python installations)
+- `tkinter` library
 
 ## Installation
 
